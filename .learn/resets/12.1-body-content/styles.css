@@ -35,15 +35,13 @@ body {
 .body-right {
 	padding: 2px;
 }
-.body-right {
-	text-decoration: underline;
-	color: grey;
-}
 input {
 	border: none;
 	border-bottom: grey;
 }
-
+.name {
+	color: grey;
+}
 .postcard-footer {
 	font-family: Courier;
 	text-align: center;
